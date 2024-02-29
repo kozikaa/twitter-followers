@@ -1,0 +1,28 @@
+{
+  "name": "twitter-followers-kozikaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozikaa/twitter-followers.git"
+  },
+  "keywords": [
+    "tea",
+    "twitter"
+  ],
+  "author": "kozikaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozikaa/twitter-followers/issues"
+  },
+  "homepage": "https://github.com/kozikaa/twitter-followers#readme",
+  "dependencies": {
+    "ramda": "^0.29.1",
+    "twit": "^2.2.11",
+    "twitter-media-kozikaa": "^1.0.0"
+  }
+}
